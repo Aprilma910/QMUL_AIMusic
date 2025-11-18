@@ -18,16 +18,15 @@ As part of the labs, you will be able to run jupyter notebooks using the followi
 	1. In the university's JupyterHub platform: https://hub.comp-teach.qmul.ac.uk . You would need to log in using your QMUL IT account and select the ECS7006 module instance.
 	2. In the Google Colab environment. For this option, you will need to use either your personal google account or you can create a new google account linked to your QMUL email.
 	3. Using your local python 3.x installation in your machine. For this option, please make sure that the following packages are installed:
-		○ numpy
-		○ scipy
-		○ IPython
-		○ matplotlib
-		○ scikit-learn
-		○ numba
-		○ librosa
-		○ pretty_midi
+	○ numpy 
+	○ scipy 
+	○ IPython 
+	○ matplotlib 
+	○ scikit-learn 
+	○ numba 
+	○ librosa 
+	○ pretty_midi 
 
-<img width="1192" height="976" alt="image" src="https://github.com/user-attachments/assets/3cbe90aa-3f59-4226-aa94-cbaee89bdcc2" />
 
 
 
